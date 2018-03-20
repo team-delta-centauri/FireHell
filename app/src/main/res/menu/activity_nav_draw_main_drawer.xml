@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Dam Schedules" />
+        <item
+            android:id="@+id/nav_new"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="New Schedule" />
+        <item
+            android:id="@+id/nav_change"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Change a Schedule" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Which Admin" />
+        <item
+            android:id="@+id/nav_subscribe"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Subscribe" />
+    </group>
+
+</menu>

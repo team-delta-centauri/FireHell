@@ -1,0 +1,395 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/d4525a31b015a4762f76a476f27d3b08/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f1e0ebf999cd945fe83887baaebe8881/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/groot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1c4125498d69cc418a7049522cff131/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/0c607740b782496e0428e336c4793e67/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3a9e4539898e0d8562667b49a3d2fb42/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4226fb1a8c3622a2cb9f2193cfe10735/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1ee8e08f43eee7667fae895678bb59f1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9a50a686a9788532321e9980f22cedcb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/c7738da91a7ef4b083abdb83578d45f7/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/3aa9fddaf731291cf7b1a2763b930af6/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3bf8d0c001d17c69576c174c56d40941/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/61a391c4147dbfc49d91fff86e951952/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a842882e0683fe0ddf5f0b1cfaf3712d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/57d0694fc18bf54e9c27f1096e2e1bc5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/00ac948cf1f12d9ab3a77270aa911e81/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71eef95aea1a0a5c320ad47f5380a524/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:5:5-34:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/d4525a31b015a4762f76a476f27d3b08/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/d4525a31b015a4762f76a476f27d3b08/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f1e0ebf999cd945fe83887baaebe8881/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f1e0ebf999cd945fe83887baaebe8881/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/groot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1c4125498d69cc418a7049522cff131/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/groot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1c4125498d69cc418a7049522cff131/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:24:5-34:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3a9e4539898e0d8562667b49a3d2fb42/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3a9e4539898e0d8562667b49a3d2fb42/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4226fb1a8c3622a2cb9f2193cfe10735/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4226fb1a8c3622a2cb9f2193cfe10735/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1ee8e08f43eee7667fae895678bb59f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1ee8e08f43eee7667fae895678bb59f1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9a50a686a9788532321e9980f22cedcb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9a50a686a9788532321e9980f22cedcb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/3aa9fddaf731291cf7b1a2763b930af6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/3aa9fddaf731291cf7b1a2763b930af6/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3bf8d0c001d17c69576c174c56d40941/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3bf8d0c001d17c69576c174c56d40941/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/61a391c4147dbfc49d91fff86e951952/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/61a391c4147dbfc49d91fff86e951952/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a842882e0683fe0ddf5f0b1cfaf3712d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a842882e0683fe0ddf5f0b1cfaf3712d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/57d0694fc18bf54e9c27f1096e2e1bc5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/57d0694fc18bf54e9c27f1096e2e1bc5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/00ac948cf1f12d9ab3a77270aa911e81/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/00ac948cf1f12d9ab3a77270aa911e81/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71eef95aea1a0a5c320ad47f5380a524/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71eef95aea1a0a5c320ad47f5380a524/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.groot.firehell.MainActivityOther
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:12:9-14:20
+	android:name
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:12:19-52
+activity#com.example.groot.firehell.NavDrawMain
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:17:13-65
+	android:theme
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:16:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:22:27-74
+service#com.example.groot.firehell.FirebaseMessagingService
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:27:9-32:19
+	android:name
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:28:13-53
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:29:13-31:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml:30:25-75
+uses-sdk
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/d4525a31b015a4762f76a476f27d3b08/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/d4525a31b015a4762f76a476f27d3b08/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f1e0ebf999cd945fe83887baaebe8881/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f1e0ebf999cd945fe83887baaebe8881/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/groot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1c4125498d69cc418a7049522cff131/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/groot/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a1c4125498d69cc418a7049522cff131/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/0c607740b782496e0428e336c4793e67/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/0c607740b782496e0428e336c4793e67/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3a9e4539898e0d8562667b49a3d2fb42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3a9e4539898e0d8562667b49a3d2fb42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4226fb1a8c3622a2cb9f2193cfe10735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4226fb1a8c3622a2cb9f2193cfe10735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1ee8e08f43eee7667fae895678bb59f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1ee8e08f43eee7667fae895678bb59f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9a50a686a9788532321e9980f22cedcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9a50a686a9788532321e9980f22cedcb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/c7738da91a7ef4b083abdb83578d45f7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/c7738da91a7ef4b083abdb83578d45f7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/3aa9fddaf731291cf7b1a2763b930af6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/3aa9fddaf731291cf7b1a2763b930af6/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3bf8d0c001d17c69576c174c56d40941/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3bf8d0c001d17c69576c174c56d40941/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/61a391c4147dbfc49d91fff86e951952/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/61a391c4147dbfc49d91fff86e951952/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a842882e0683fe0ddf5f0b1cfaf3712d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a842882e0683fe0ddf5f0b1cfaf3712d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/57d0694fc18bf54e9c27f1096e2e1bc5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/57d0694fc18bf54e9c27f1096e2e1bc5/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/00ac948cf1f12d9ab3a77270aa911e81/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/00ac948cf1f12d9ab3a77270aa911e81/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71eef95aea1a0a5c320ad47f5380a524/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71eef95aea1a0a5c320ad47f5380a524/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+		ADDED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+		INJECTED from /home/groot/AndroidStudioProjects/FireHell/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f1e0ebf999cd945fe83887baaebe8881/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f1e0ebf999cd945fe83887baaebe8881/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3a9e4539898e0d8562667b49a3d2fb42/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/3a9e4539898e0d8562667b49a3d2fb42/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4226fb1a8c3622a2cb9f2193cfe10735/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4226fb1a8c3622a2cb9f2193cfe10735/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1ee8e08f43eee7667fae895678bb59f1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/1ee8e08f43eee7667fae895678bb59f1/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9a50a686a9788532321e9980f22cedcb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/9a50a686a9788532321e9980f22cedcb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3bf8d0c001d17c69576c174c56d40941/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/3bf8d0c001d17c69576c174c56d40941/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/61a391c4147dbfc49d91fff86e951952/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/61a391c4147dbfc49d91fff86e951952/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a842882e0683fe0ddf5f0b1cfaf3712d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a842882e0683fe0ddf5f0b1cfaf3712d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/57d0694fc18bf54e9c27f1096e2e1bc5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/57d0694fc18bf54e9c27f1096e2e1bc5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/00ac948cf1f12d9ab3a77270aa911e81/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/00ac948cf1f12d9ab3a77270aa911e81/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71eef95aea1a0a5c320ad47f5380a524/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/71eef95aea1a0a5c320ad47f5380a524/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/groot/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/97fac8651579516c68ea371f8e7c25a5/AndroidManifest.xml:27:13-51
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/5a2f85708077fad7b930c82c71b513f5/AndroidManifest.xml:23:18-87
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/b490d315e40685ec92e8cc7d569c49f8/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/6f88e88289e0d03d20bdb988db7b025b/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:24:17-71
+permission#com.example.groot.firehell.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:26:22-76
+uses-permission#com.example.groot.firehell.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:31:13-34:29
+intent-filter#com.example.groot.firehell+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:33:27-58
+category#com.example.groot.firehell
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/3e47450d5e1637353ba335ea1c887326/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/a2d0515898fe1c84691fe645be72aad6/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/groot/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/3f65f85405f7e5b6f7dc243ee7f02c03/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/groot/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b4138b40f848d7953aaa27da03f74a51/AndroidManifest.xml:26:13-58
